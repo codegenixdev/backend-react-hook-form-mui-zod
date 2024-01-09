@@ -1,0 +1,46 @@
+{
+  "states": [
+    { "id": "1", "label": "California" },
+    { "id": "2", "label": "Texas" },
+    { "id": "3", "label": "Florida" }
+  ],
+  "languages": [
+    {
+      "id": "1",
+      "label": "English"
+    },
+    {
+      "id": "2",
+      "label": "Germany"
+    },
+    {
+      "id": "3",
+      "label": "Spanish"
+    }
+  ],
+  "genders": [
+    {
+      "id": "1",
+      "label": "Male"
+    },
+    { "id": "2", "label": "Female" }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "label": "Productive"
+    },
+    {
+      "id": "2",
+      "label": "Creative"
+    },
+    {
+      "id": "3",
+      "label": "Agile"
+    },
+    {
+      "id": "4",
+      "label": "Problem solver"
+    }
+  ]
+}
