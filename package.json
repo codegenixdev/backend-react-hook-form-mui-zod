@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "json-server": "^0.17.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
   }
 }
