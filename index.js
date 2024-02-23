@@ -6,7 +6,7 @@ const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
 server.use((req, res, next) => {
-  setTimeout(next, 500);
+  setTimeout(next, 0);
 });
 server.use(router);
 
